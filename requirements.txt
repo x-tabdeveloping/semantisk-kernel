@@ -1,0 +1,6 @@
+plotly
+gensim
+networkx
+community
+matplotlib
+numpy
